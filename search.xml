@@ -29,6 +29,31 @@
     
     
     <entry>
+      <title>表单制作</title>
+      <link href="/2022/08/18/biao-dan-zhi-zuo/"/>
+      <url>/2022/08/18/biao-dan-zhi-zuo/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="制作一个表单页面"><a href="#制作一个表单页面" class="headerlink" title="制作一个表单页面"></a>制作一个表单页面</h1><pre class="line-numbers language-HTML" data-language="HTML"><code class="language-HTML">&lt;html&gt;    &lt;head&gt;        &lt;title&gt;表单&lt;/title&gt;    &lt;/head&gt;    &lt;body&gt;                &lt;form&gt;            &lt;h1 align="center"&gt;登录首页&lt;/h1&gt;            &lt;input type="hidden" name="action" value="login"/&gt;            &lt;table align="center"&gt;                &lt;tr&gt;                    &lt;td&gt;                        用户名称:                    &lt;/td&gt;                    &lt;td&gt;                        &lt;input name="username"type="text" value="默认值"/&gt;                    &lt;/td&gt;                &lt;/tr&gt;                &lt;tr&gt;                    &lt;td&gt;                        用户密码:                    &lt;/td&gt;                    &lt;td&gt;                         &lt;input name="password"type="password" value="abc"/&gt;                    &lt;/td&gt;                &lt;/tr&gt;                &lt;tr&gt;                    &lt;td&gt;                        确认密码:                    &lt;/td&gt;                    &lt;td&gt;                         &lt;input name="password"type="password" value="abc"/&gt;                    &lt;/td&gt;                &lt;/tr&gt;                &lt;tr&gt;                    &lt;td&gt;                        性别:                    &lt;/td&gt;                    &lt;td&gt;                         &lt;input type="radio" name="sex" checked="checked"/&gt;男&lt;input type="radio"name="sex"/&gt;女&lt;br/&gt;                    &lt;/td&gt;                &lt;/tr&gt;                &lt;tr&gt;                    &lt;td&gt;                        兴趣爱好:                    &lt;/td&gt;                    &lt;td&gt;                        &lt;input name="hobby"type="checkbox"checked="check"/&gt;唱歌                        &lt;input name="hobby" type="checkbox"/&gt;跳舞                        &lt;input name="hobby"type="checkbox"/&gt;rap                        &lt;input name="hobby" type="checkbox"/&gt;篮球                    &lt;/td&gt;                &lt;/tr&gt;                &lt;tr&gt;                    &lt;td&gt;                        国籍:                    &lt;/td&gt;                    &lt;td&gt;                        &lt;select name="country"&gt;                        &lt;option value="none"&gt;--请选择国籍&lt;/option&gt;                        &lt;option selected="selected" value="cn"&gt;中国&lt;/option&gt;                        &lt;option value="usa"&gt;美佬&lt;/option&gt;                        &lt;option value="jap"&gt;小日本&lt;/option&gt;                        &lt;/select&gt;                    &lt;/td&gt;                &lt;/tr&gt;                &lt;tr&gt;                    &lt;td&gt;                        自我评价:                    &lt;/td&gt;                    &lt;td&gt;                        &lt;textarea rows="10" cols="20"&gt;请输入自我评价信息&lt;/textarea&gt;                    &lt;/td&gt;                &lt;/tr&gt;                &lt;tr&gt;                    &lt;td&gt;                        &lt;input type="reset" value="重置"&gt;                        &lt;input type="submit" value="提交"&gt;                    &lt;/td&gt;                &lt;/tr&gt;                &lt;!--action=login                &amp;username=默认值                &amp;password=123456                &amp;password=123456                &amp;sex=on                &amp;hobby=on                &amp;country=中国                --&gt;            &lt;/table&gt;        &lt;/form&gt;    &lt;/body&gt;&lt;/html&gt;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> javaweb学习笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>算法笔记一</title>
       <link href="/2022/08/17/suan-fa-bi-ji-yi/"/>
       <url>/2022/08/17/suan-fa-bi-ji-yi/</url>
