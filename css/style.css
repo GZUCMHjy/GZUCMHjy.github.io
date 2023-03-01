@@ -1,0 +1,7 @@
+#aside_content .card-widget,#recent-posts&gt;.recent-post-item,.layout_page&gt;div:first-child:not(.recent-posts),.layout_post&gt;#page,.layout_post&gt;#post,.read-mode .layout_post&gt;#post {
+    background: var(rgba(255,255,255))
+}
+
+[data-theme=dark] #nav,[data-theme=dark] .layout_page&gt;div:first-child:not(.recent-posts),[data-theme=dark] .layout_post&gt;#post {
+    background-color: var(rgba(255,255,255))
+}
