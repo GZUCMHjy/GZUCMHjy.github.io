@@ -6,7 +6,7 @@
   <link href="http://gzucmhjy.github.io/atom.xml" rel="self"/>
   
   <link href="http://gzucmhjy.github.io/"/>
-  <updated>2023-03-01T09:57:49.487Z</updated>
+  <updated>2023-03-01T12:12:30.975Z</updated>
   <id>http://gzucmhjy.github.io/</id>
   
   <author>
@@ -17,11 +17,70 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>maven安装</title>
+    <link href="http://gzucmhjy.github.io/2023/03/01/maven-an-zhuang-zhi-nan/"/>
+    <id>http://gzucmhjy.github.io/2023/03/01/maven-an-zhuang-zhi-nan/</id>
+    <published>2023-03-01T12:25:30.000Z</published>
+    <updated>2023-03-01T12:12:30.975Z</updated>
+    
+    
+    <summary type="html">maven安装</summary>
+    
+    
+    
+    <category term="后端学习" scheme="http://gzucmhjy.github.io/categories/%E5%90%8E%E7%AB%AF%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="后端" scheme="http://gzucmhjy.github.io/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>springdata_jpa使用</title>
+    <link href="http://gzucmhjy.github.io/2023/03/01/shi-yong-springboot-jpa-zhi-cai-keng-zhi-nan/"/>
+    <id>http://gzucmhjy.github.io/2023/03/01/shi-yong-springboot-jpa-zhi-cai-keng-zhi-nan/</id>
+    <published>2023-03-01T12:15:30.000Z</published>
+    <updated>2023-03-01T12:12:30.999Z</updated>
+    
+    
+    <summary type="html">框架学习路上的笔记纪录</summary>
+    
+    
+    
+    <category term="后端学习" scheme="http://gzucmhjy.github.io/categories/%E5%90%8E%E7%AB%AF%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="后端" scheme="http://gzucmhjy.github.io/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+    <category term="框架学习" scheme="http://gzucmhjy.github.io/tags/%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java学习</title>
+    <link href="http://gzucmhjy.github.io/2023/03/01/java-bi-ji/"/>
+    <id>http://gzucmhjy.github.io/2023/03/01/java-bi-ji/</id>
+    <published>2023-03-01T12:05:30.000Z</published>
+    <updated>2023-03-01T12:12:30.985Z</updated>
+    
+    
+    <summary type="html">java学习路上的笔记纪录</summary>
+    
+    
+    
+    <category term="后端学习" scheme="http://gzucmhjy.github.io/categories/%E5%90%8E%E7%AB%AF%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="后端" scheme="http://gzucmhjy.github.io/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>trick</title>
     <link href="http://gzucmhjy.github.io/2023/03/01/trick/"/>
     <id>http://gzucmhjy.github.io/2023/03/01/trick/</id>
     <published>2023-03-01T09:43:01.000Z</published>
-    <updated>2023-03-01T09:57:49.487Z</updated>
+    <updated>2023-03-01T11:59:08.947Z</updated>
     
     
       
@@ -67,14 +126,14 @@
     <link href="http://gzucmhjy.github.io/2023/02/28/springboot-xue-xi-ji-chu-pian/"/>
     <id>http://gzucmhjy.github.io/2023/02/28/springboot-xue-xi-ji-chu-pian/</id>
     <published>2023-02-28T09:25:30.000Z</published>
-    <updated>2023-03-01T08:46:18.281Z</updated>
+    <updated>2023-03-01T12:12:30.964Z</updated>
     
     
     <summary type="html">框架学习路上的笔记纪录</summary>
     
     
     
-    <category term="后端框架" scheme="http://gzucmhjy.github.io/categories/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/"/>
+    <category term="后端学习" scheme="http://gzucmhjy.github.io/categories/%E5%90%8E%E7%AB%AF%E5%AD%A6%E4%B9%A0/"/>
     
     
     <category term="后端" scheme="http://gzucmhjy.github.io/tags/%E5%90%8E%E7%AB%AF/"/>
