@@ -1,0 +1,11 @@
+/* 文章页背景 */
+.layout_post&gt;#post {
+    /* 以下代表透明度为0.5 可以自行修改*/
+    background: rgba(255,255,255,.5);
+}
+
+/* 所有页面背景 */
+#aside_content .card-widget, #recent-posts&gt;.recent-post-item, .layout_page&gt;div:first-child:not(.recent-posts), .layout_post&gt;#page, .layout_post&gt;#post, .read-mode .layout_post&gt;#post{
+    /* 以下代表透明度为0.5 */
+    background: rgba(255,255,255,.5);
+}
